@@ -1,0 +1,5 @@
+.selected {
+    -fx-background-color: #B3B3B3;
+    -fx-background-radius: 5,5,4;
+    -fx-background-insets: 0;
+}
